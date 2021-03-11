@@ -6,7 +6,7 @@
 -   Email: lanzavecchia.job@gmail.com 
 -   Linkedin: https://www.linkedin.com/in/agustin-lanzavecchia-3755571a8/
 
-### Here you can see some proyects that i made while im learning ReactJs:
+### Here you can see some proyects that i made while learning ReactJs:
 
 - https://lanzavecchia-birthday-reminder.netlify.app/
 - https://lanzavecchia-react-tours.netlify.app/
