@@ -6,10 +6,10 @@
 
 ### Here you can see some proyects that i made while im learning ReactJs:
 
-1- https://lanzavecchia-birthday-reminder.netlify.app/
-2- https://lanzavecchia-react-tours.netlify.app/
-3- https://lanzavecchia-react-reviews.netlify.app
-4- https://lanzavecchia-react-accordion.netlify.app/
-5- https://lanzavecchia-react-menu.netlify.app/
-6- https://lanzavecchia-react-tabs.netlify.app/
+- https://lanzavecchia-birthday-reminder.netlify.app/
+- https://lanzavecchia-react-tours.netlify.app/
+- https://lanzavecchia-react-reviews.netlify.app
+- https://lanzavecchia-react-accordion.netlify.app/
+- https://lanzavecchia-react-menu.netlify.app/
+- https://lanzavecchia-react-tabs.netlify.app/
 
