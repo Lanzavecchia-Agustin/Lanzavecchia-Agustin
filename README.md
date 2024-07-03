@@ -1,19 +1,44 @@
-### Hi there 👋
+# Hi there 👋
 
-Hi, I'm Lanzavecchia Agustin, a passionate self-taught Frontend developer from Argentina. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+I'm Agustin Lanzavecchia, a passionate Frontend Developer from Argentina with over a year of professional experience. I specialize in creating elegant and efficient web and mobile applications using React, React Native, and other modern frameworks.
 
-- 🔭 I’m currently working as a freelancer 
-- 🌱 I’m currently learning ReactJs
-- 📫 How to reach me: 
-    -   Email: lanzavecchia.job@gmail.com 
-    -   Linkedin: https://www.linkedin.com/in/agustin-lanzavecchia-3755571a8/
+## About Me
 
-### Here you can see some proyects that i made while learning ReactJs:
+- 🚀 Frontend Developer with expertise in React and React Native
+- 🌱 Constantly learning and adapting to new technologies
+- 💼 Experience in both web and mobile app development
+- 🎨 Passionate about creating intuitive and visually appealing user interfaces
 
-- https://lanzavecchia-birthday-reminder.netlify.app/
-- https://lanzavecchia-react-tours.netlify.app/
-- https://lanzavecchia-react-reviews.netlify.app
-- https://lanzavecchia-react-accordion.netlify.app/
-- https://lanzavecchia-react-menu.netlify.app/
-- https://lanzavecchia-react-tabs.netlify.app/
+## Technologies
 
+React | React Native | Redux | Redux Toolkit | HTML | CSS | JavaScript | Tailwind | Bootstrap | SCSS | GIT | Agile Methodologies (Scrum)
+
+## Professional Experience
+
+### IMAJINE LLC - Washington DC, US
+
+- **Frontend Mobile Developer** (June 2023 - April 2024)
+  - Adapted quickly to React Native for cross-platform mobile app development
+  - Integrated libraries and frameworks to enhance app functionality and user experience
+
+- **Frontend Web Developer** (November 2022 - June 2023)
+  - Modernized frontend tech stack and development practices
+  - Improved UX/UI and global data management across web platforms
+
+### Previous Experience
+
+- SEO Content Optimizer at TOPTIVE (April 2021 - August 2021)
+- Freelance Frontend Mobile Developer (April 2020 - November 2020)
+
+## Key Skills
+
+- Adaptability and agility in fast-paced environments
+- Code comprehension and enhancement
+- Holistic problem-solving approach
+- Quick adoption of new technologies
+
+## Let's Connect!
+
+- 📫 Email: lanzavecchia.job@gmail.com
+- 💼 LinkedIn: [Agustin Lanzavecchia](https://www.linkedin.com/in/agustin-lanzavecchia-3755571a8/)
+- 📱 Phone: +54 9 0358 6021854
