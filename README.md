@@ -1,7 +1,7 @@
 # Agustín Lanzavecchia  
 **SSR Frontend Developer**  
 
-Innovative Frontend Engineer with 1+ year driving high-performance, server-rendered web apps using Next.js, React and Tailwind CSS. Expert at fine-tuning SSR/ISR pipelines for optimal SEO, lightning-fast load times, and pixel-perfect, accessible UIs in production environments.
+Innovative Frontend Engineer with 2+ year driving high-performance, server-rendered web apps using Next.js, React and Tailwind CSS. Expert at fine-tuning SSR/ISR pipelines for optimal SEO, lightning-fast load times, and pixel-perfect, accessible UIs in production environments.
 
 ---
 
